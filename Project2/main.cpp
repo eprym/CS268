@@ -1,9 +1,3 @@
-/*
- Name : Liqiang Yu
- UCLA ID : 904592975
- Email : yuliqiang92@gmail.com
- */
-
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
