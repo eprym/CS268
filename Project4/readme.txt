@@ -1,0 +1,3 @@
+There are some information for you if you want to run the program
+1. The program is based on Matlab 2015b, which has the function about the point cloud like pcwrite and pcshow.
+2. You will need to run the hw4 script first to get the point cloud (ply file) and G.mat(transformation matrix), then you need to run the getRT script to get R.mat, T.mat and G_all.mat, then you could run replaceBook to replace the book cover and generate_video to generate the video. 
